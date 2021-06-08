@@ -2,11 +2,9 @@
 
 ***
 
-
-    ![ped_bone](https://user-images.githubusercontent.com/82971106/121151604-301a5080-c84d-11eb-836d-824ffea20582.png)
-    ![ped_box](https://user-images.githubusercontent.com/82971106/121151607-314b7d80-c84d-11eb-8e3d-df91902c51e8.png)
-    ![ped_chams](https://user-images.githubusercontent.com/82971106/121151629-36a8c800-c84d-11eb-94d3-1653c59e592d.png)
-    ![ped_info](https://user-images.githubusercontent.com/82971106/121151634-37d9f500-c84d-11eb-81e5-57e6309b5c1a.png)
-    ![other](https://user-images.githubusercontent.com/82971106/121151646-3b6d7c00-c84d-11eb-8089-a3c2820a875c.png)
-    ![veh](https://user-images.githubusercontent.com/82971106/121151656-3c9ea900-c84d-11eb-96c0-87b3159b24ca.png)
-
+![veh](https://user-images.githubusercontent.com/82971106/121151777-53dd9680-c84d-11eb-962a-9e4c8661f920.png)
+![other](https://user-images.githubusercontent.com/82971106/121151784-54762d00-c84d-11eb-9adf-efce5502bcdd.png)
+![ped_bone](https://user-images.githubusercontent.com/82971106/121151786-550ec380-c84d-11eb-92fe-f8bd33a7f94c.png)
+![ped_box](https://user-images.githubusercontent.com/82971106/121151787-550ec380-c84d-11eb-8177-787005a9fe65.png)
+![ped_chams](https://user-images.githubusercontent.com/82971106/121151788-550ec380-c84d-11eb-9860-a59766b78b18.png)
+![ped_info](https://user-images.githubusercontent.com/82971106/121151791-55a75a00-c84d-11eb-9b29-a9cc0bf1dbe0.png)
