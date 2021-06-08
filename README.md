@@ -1,6 +1,6 @@
 # UltimateWallHack
 
-<details>
+<details="123">
   sad
 </details>
 
