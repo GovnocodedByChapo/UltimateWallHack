@@ -1,7 +1,11 @@
 # UltimateWallHack
 
-<details="123">
-  sad
+<details>
+    <summary>Click me to collapse/fold.</summary>
+    These details will remain hidden until expanded.
+    <pre>
+        <code>PASTE LOGS HERE</code>
+    </pre>
 </details>
 
 ***
