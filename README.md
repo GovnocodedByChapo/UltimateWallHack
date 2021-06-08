@@ -2,17 +2,12 @@
 
 ***
 
-### Скриншоты меню
-
 <details>
     <summary>Скриншоты меню</summary>
-    ![ped_bone](https://user-images.githubusercontent.com/82971106/121151032-b3877200-c84c-11eb-867d-c1f5b7e7ec94.png)
-![ped_box](https://user-images.githubusercontent.com/82971106/121151042-b4b89f00-c84c-11eb-9d43-4ada18b8df13.png)
-![ped_chams](https://user-images.githubusercontent.com/82971106/121151054-b6826280-c84c-11eb-94be-2b48aad9351c.png)
-![ped_info](https://user-images.githubusercontent.com/82971106/121151060-b7b38f80-c84c-11eb-80df-50164884b7ad.png)
-![other](https://user-images.githubusercontent.com/82971106/121151069-b97d5300-c84c-11eb-9126-f9fe31d0a9c4.png)
-![veh](https://user-images.githubusercontent.com/82971106/121151081-bb471680-c84c-11eb-8770-a4a1fee9c489.png)
+    ![ped_bone](https://user-images.githubusercontent.com/82971106/121151604-301a5080-c84d-11eb-836d-824ffea20582.png)
+    ![ped_box](https://user-images.githubusercontent.com/82971106/121151607-314b7d80-c84d-11eb-8e3d-df91902c51e8.png)
+    ![ped_chams](https://user-images.githubusercontent.com/82971106/121151629-36a8c800-c84d-11eb-94d3-1653c59e592d.png)
+    ![ped_info](https://user-images.githubusercontent.com/82971106/121151634-37d9f500-c84d-11eb-81e5-57e6309b5c1a.png)
+    ![other](https://user-images.githubusercontent.com/82971106/121151646-3b6d7c00-c84d-11eb-8089-a3c2820a875c.png)
+    ![veh](https://user-images.githubusercontent.com/82971106/121151656-3c9ea900-c84d-11eb-96c0-87b3159b24ca.png)
 </details>
-
-
-
