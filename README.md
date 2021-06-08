@@ -1,12 +1,10 @@
 # UltimateWallHack
 
-<
-
 ***
 
 ### Скриншоты меню
 
-details>
+<details>
     <summary>Скриншоты меню</summary>
     ![ped_bone](https://user-images.githubusercontent.com/82971106/121151032-b3877200-c84c-11eb-867d-c1f5b7e7ec94.png)
 ![ped_box](https://user-images.githubusercontent.com/82971106/121151042-b4b89f00-c84c-11eb-9d43-4ada18b8df13.png)
